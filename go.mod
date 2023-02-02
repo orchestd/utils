@@ -1,1 +1,1 @@
-module "bitbucket.org/HeilaSystems/utils"
+module "github.com/orchestd/utils"
