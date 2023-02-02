@@ -1,1 +1,1 @@
-module "github.com/orchestd/utils"
+module github.com/orchestd/utils
